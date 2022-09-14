@@ -1,3 +1,4 @@
 # 1pGr1Test
-test klienta GitHub
+Test klienta GitHub
 Michał tu był
+Dawid też tu był
